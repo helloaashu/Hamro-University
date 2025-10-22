@@ -1,0 +1,206 @@
+
+
+🎓 Bachelor of Data Science (BDSc) – Kathmandu University
+
+📚 Program Overview
+
+Degree: Bachelor of Data Science (BDSc)
+
+Duration: 4 years (8 semesters)
+
+Credits: 120 ECTS
+
+Offered by: Department of Mathematics, School of Science
+
+Commencement: August 2024 
+
+
+🎯 Program Objectives
+
+The BDSc program aims to:
+
+Provide a strong foundation in mathematics, statistics, computer science, and business.
+
+Equip students with skills in data analysis, machine learning, and data visualization.
+
+Prepare graduates for careers in data science across various sectors.
+
+
+📘 Curriculum Structure
+
+Year 1
+
+Semester 1
+
+DSMA 111: Introduction to Data Science – 3 credits
+
+DSMA 113: Introduction to Python Programming – 3 credits
+
+DSMA 114: Linear Algebra – 3 credits
+
+DSMA 115: Calculus I – 3 credits
+
+DSMA 116: Computational Statistics I – 3 credits
+
+
+Semester 2
+
+DSMA 121: Data Structures – 3 credits
+
+DSMA 122: Discrete Mathematics – 3 credits
+
+DSMA 123: Probability Theory – 3 credits
+
+DSMA 124: Data Visualization – 3 credits
+
+DSMA 125: Computational Statistics II – 3 credits
+
+
+Year 2
+
+Semester 3
+
+DSMA 211: Database Management Systems – 3 credits
+
+DSMA 212: Statistical Inference – 3 credits
+
+DSMA 213: Machine Learning I – 3 credits
+
+DSMA 214: Data Wrangling – 3 credits
+
+DSMA 215: Business Intelligence – 3 credits
+
+
+Semester 4
+
+DSMA 221: Advanced Machine Learning – 3 credits
+
+DSMA 222: Big Data Analytics – 3 credits
+
+DSMA 223: Time Series Analysis – 3 credits
+
+DSMA 224: Data Ethics and Privacy – 3 credits
+
+DSMA 225: Data Science Project I – 3 credits
+
+
+Year 3
+
+Semester 5
+
+DSMA 311: Natural Language Processing – 3 credits
+
+DSMA 312: Deep Learning – 3 credits
+
+DSMA 313: Data Science for Business – 3 credits
+
+DSMA 314: Cloud Computing for Data Science – 3 credits
+
+DSMA 315: Data Science Project II – 3 credits
+
+
+Semester 6
+
+DSMA 321: Data Science for Social Sciences – 3 credits
+
+DSMA 322: Data Science for Health Sciences – 3 credits
+
+DSMA 323: Data Science for Engineering – 3 credits
+
+DSMA 324: Data Science for Environmental Studies – 3 credits
+
+DSMA 325: Data Science Project III – 3 credits
+
+
+Year 4
+
+Semester 7
+
+DSMA 411: Advanced Topics in Data Science – 3 credits
+
+DSMA 412: Data Science Internship – 3 credits
+
+DSMA 413: Data Science Seminar – 3 credits
+
+DSMA 414: Elective I – 3 credits
+
+DSMA 415: Elective II – 3 credits
+
+
+Semester 8
+
+DSMA 421: Capstone Project – 6 credits
+
+DSMA 422: Elective III – 3 credits
+
+DSMA 423: Elective IV – 3 credits
+
+
+🧠 Elective Courses
+
+Students can choose from a range of electives, including:
+
+DSMA 451: Biomathematics
+
+DSMA 452: Health Informatics
+
+DSMA 453: Econometrics
+
+DSMA 454: Numerical Methods in ODE
+
+DSMA 455: Data Mining
+
+DSMA 456: Bioinformatics
+
+DSMA 457: Stochastic Models
+
+DSMA 458: Mathematical Modeling
+
+DSMA 459: Statistical Modeling
+
+DSMA 460: Biostatistics
+
+DSMA 461: Industrial Statistics
+
+DSMA 462: Agricultural Statistics
+
+DSMA 463: Population Dynamics
+
+DSMA 464: Financial Modeling 
+
+
+🛠️ Learning Approach
+
+The program emphasizes:
+
+Project-based learning: Engaging in real-world data science projects.
+
+Collaborative work: Encouraging teamwork and communication skills.
+
+Hands-on experience: Utilizing modern data science tools and technologies.
+
+
+📈 Career Opportunities
+
+Graduates can pursue careers in:
+
+Data Analyst
+
+Machine Learning Engineer
+
+Data Scientist
+
+Business Intelligence Analyst
+
+Research Scientist
+
+
+🔗 Additional Resources
+
+For more information, visit the official Kathmandu University website: https://ku.edu.np/program/bachelor-of-data-science
+
+
+---
+
+Feel free to customize this template further based on your specific needs or preferences.
+
