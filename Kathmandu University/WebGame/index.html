@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guess Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="game">
+        <h1>Number Guess Game</h1>
+        <p>Guess the secret number between 1 and 50. You have 7 attempts.</p>
+        <label for="guess-input">Your guess:</label>
+        <input id="guess-input" type="number" min="1" max="50" placeholder="Enter a number">
+        <button id="guess-button">Submit Guess</button>
+        <button id="restart-button" class="secondary">Restart</button>
+        <div id="status" class="status">Make your first guess!</div>
+        <div id="history" class="history"></div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
